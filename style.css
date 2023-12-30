@@ -63,7 +63,7 @@
     padding: 50px 0;
   }
   .col-2 h1 {
-    font-size: 15px;
+    font-size: 25px;
     line-height: 60px;
     margin: 25px 0;
   }
@@ -225,6 +225,9 @@
     color: black;
     margin-bottom: 20px;
   }
+.footer-col-1{
+    margin-left:45px;
+}
   .footer-col-1,
   .footer-col-2,
   .footer-col-3,
